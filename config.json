@@ -1,0 +1,7 @@
+{
+    "filesSync": "'.htm' '.html' 'css'",
+
+    "pathCSS": "app/css",
+    "pathSCSS": "app/scss",
+    "comressCSS": true
+}
